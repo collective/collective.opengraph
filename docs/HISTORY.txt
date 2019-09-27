@@ -6,7 +6,7 @@ Changelog
 - Fixed case when the image field exists, but does not contain anything
   [alecghica]
 - Fixed case when thumbnail is None
-  [alecghica
+  [alecghica]
 - Added sitewide enabling bypassing need to enable per document
   [ichim-david]
 - Avoid catalog search when sitewide isn't enabled and we need
